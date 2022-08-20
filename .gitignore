@@ -1,0 +1,7 @@
+settings.py
+
+main/views.py
+
+__pycache__/
+
+.idea/
